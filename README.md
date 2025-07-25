@@ -1,2 +1,2 @@
 # SecurePool
-Development for frontend and backend architecture, security threats, and gameplay logic
+Development for frontend and backend architecture, threat modeling , and gameplay logic
